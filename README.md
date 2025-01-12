@@ -4,7 +4,7 @@ Code repository for the online course 'Statistical Techniques for Monitoring Ind
 ![](/courseImage.jpg)
 
 # Udemy Course Link:
-???
+https://www.udemy.com/course/statistical-techniques-for-monitoring-industrial-processes/
 
 
 # Course Description
